@@ -119,6 +119,16 @@ Continuing from Day 1, the Tinker-Fresh event aims to provide participants with 
 - Introduction to common sensors and their applications
 - Brief explanation of each sensor
 
+### **Session 10: Introduction to TinkerCad and LTSpice**
+**Time:** ---
+
+**Presenter:** ---
+
+**Topics Covered:**
+- Basics of Electric Simulation
+- Development of circuits on board
+- Presentation and different modes of running
+
 ## Event Details
 - Participants are encouraged to bring their laptops for interactive sessions.
 - Lunch and coffee breaks will be provided.
